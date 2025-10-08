@@ -46,3 +46,6 @@ docs/public/static/blog/feed/*
 .nx/workspace-data
 screenshots
 packed
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
